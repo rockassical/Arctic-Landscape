@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c022fdf43d9a8df4ab2fc20d4378c8af
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226358
+  packageName: Arctic - Low Poly Asset Pack by ithappy
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Arctic_1/Shaders/Built-In_Shaders/WaterBuiltin.shader
+  uploadId: 683513

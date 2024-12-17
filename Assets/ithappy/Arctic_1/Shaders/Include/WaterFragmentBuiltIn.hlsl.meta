@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: a25c17921cbb2fa4dbbd4941a716ed1e
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226358
+  packageName: Arctic - Low Poly Asset Pack by ithappy
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Arctic_1/Shaders/Include/WaterFragmentBuiltIn.hlsl
+  uploadId: 683513

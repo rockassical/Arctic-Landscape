@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 73c4fa203d68d324a8ca23f4db3dcd29
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226358
+  packageName: Arctic - Low Poly Asset Pack by ithappy
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Arctic_1/Shaders/Include/Effects.hlsl
+  uploadId: 683513

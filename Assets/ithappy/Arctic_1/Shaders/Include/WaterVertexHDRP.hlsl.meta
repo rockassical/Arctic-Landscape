@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 40b1820008c4453448d7c5a3e9616404
+ShaderIncludeImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226358
+  packageName: Arctic - Low Poly Asset Pack by ithappy
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Arctic_1/Shaders/Include/WaterVertexHDRP.hlsl
+  uploadId: 683513

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fadf333535bda244ab7d2756471c02bf
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 226358
+  packageName: Arctic - Low Poly Asset Pack by ithappy
+  packageVersion: 1.1
+  assetPath: Assets/ithappy/Arctic_1/Shaders/HDRP_Shaders/WaterHDRP.shader
+  uploadId: 683513
