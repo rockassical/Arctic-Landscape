@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f7c15e71eef39c14bb68f9892a5aaa11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212594
+  packageName: HoverCraft System
+  packageVersion: 2.1.2
+  assetPath: Assets/Alek Games/HooverCraft System/System/scripts/hoverCraft/hoverCraft.cs
+  uploadId: 526599

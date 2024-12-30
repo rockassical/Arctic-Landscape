@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7c23c70be53488a43a1253b69f055ec6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/readme.txt
+  uploadId: 709069

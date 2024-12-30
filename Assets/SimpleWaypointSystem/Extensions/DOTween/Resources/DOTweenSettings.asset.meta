@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 969b8b06d4d22fb4480f93aba735f830
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/Resources/DOTweenSettings.asset
+  uploadId: 709069

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 98342af469fc3e9429b150c2943e09c3
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/DOTween.XML
+  uploadId: 709069

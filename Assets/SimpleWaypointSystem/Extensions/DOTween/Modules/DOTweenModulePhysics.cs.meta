@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: d91aa3d11d78c3b42b18b940d068661b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/Modules/DOTweenModulePhysics.cs
+  uploadId: 709069

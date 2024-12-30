@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: e3987920c28207f41a069d69862e4949
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212594
+  packageName: HoverCraft System
+  packageVersion: 2.1.2
+  assetPath: Assets/Alek Games/HooverCraft System/System/scripts/addons/HCZoneInput.cs
+  uploadId: 526599

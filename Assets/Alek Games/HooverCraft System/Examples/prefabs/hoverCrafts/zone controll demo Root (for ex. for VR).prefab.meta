@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e3c58a36fb0f5294e9019907f176107e
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212594
+  packageName: HoverCraft System
+  packageVersion: 2.1.2
+  assetPath: Assets/Alek Games/HooverCraft System/Examples/prefabs/hoverCrafts/zone
+    controll demo Root (for ex. for VR).prefab
+  uploadId: 526599

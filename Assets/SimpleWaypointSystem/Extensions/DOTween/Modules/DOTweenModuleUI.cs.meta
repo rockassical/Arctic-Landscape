@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 39cf79c712a6d9b47994f2eb7c608801
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/Modules/DOTweenModuleUI.cs
+  uploadId: 709069

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 2f424131e2ba7404e98aeeb1df003ed6
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 2506
+  packageName: Simple Waypoint System
+  packageVersion: 5.5.3
+  assetPath: Assets/SimpleWaypointSystem/Extensions/DOTween/Editor/DOTweenEditor.XML
+  uploadId: 709069

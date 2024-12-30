@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b11f3e0bbc0a2584dbb60768ae03a0ef
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212594
+  packageName: HoverCraft System
+  packageVersion: 2.1.2
+  assetPath: Assets/Alek Games/HooverCraft System/System/Editor/hoverCraftEditorWindow.cs
+  uploadId: 526599

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e49ebe70ea757e54eb44cd27268a484b
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 212594
+  packageName: HoverCraft System
+  packageVersion: 2.1.2
+  assetPath: Assets/Alek Games/HooverCraft System/Examples/materials/glass.mat
+  uploadId: 526599
